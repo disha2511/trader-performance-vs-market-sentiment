@@ -1,7 +1,7 @@
 # trader-performance-vs-market-sentiment
 Project Overview
 This project explores the relationship between market sentiment and trading performance using historical execution data and the Bitcoin Fear & Greed Index.
-Key goals:
+\Key goals:
 Understand how trader profitability changes across sentiment regimes.
 Identify behavioral patterns such as trade size and frequency shifts.
 Segment traders into meaningful groups for deeper analysis.
