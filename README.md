@@ -1,7 +1,3 @@
-# trader-performance-vs-market-sentiment
-📊 Trader Performance vs Market Sentiment Analysis
-
-Data science project analyzing how Bitcoin Fear/Greed market sentiment influences trader behavior and performance on Hyperliquid. The analysis combines behavioral segmentation, PnL evaluation, and sentiment-driven insights to propose actionable trading strategies.
 
 🚀 Project Overview
 
